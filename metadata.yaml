@@ -1,0 +1,25 @@
+_repo: Graceful-RidingA-Pocket-Manual-for-Equestrians_36701
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wayte, Samuel C.
+    alias: Waite, S. C.
+    gutenberg_agent_id: '38433'
+    url: http://www.gutenberg.org/2009/agents/38433
+description: ''
+gutenberg_issued: '2011-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Horsemanship'
+title: 'Graceful Riding: A Pocket Manual for Equestrians'
+url: http://www.gutenberg.org/ebooks/36701
